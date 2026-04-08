@@ -54,9 +54,15 @@ This Power BI dashboard was built to answer critical questions such as:
 
 > 💡 *Screenshots of the Power BI dashboard will be added here. Examples include map visuals, KPI cards, and trend lines.*
 
-- **Overview Page:** `[Insert Screenshot Here]`
-- **Regional Analysis:** `[Insert Screenshot Here]`
-- **Vulnerability & Shocks:** `[Insert Screenshot Here]`
+- **Overview Page:** `
+
+`
+- **Regional Analysis:** `
+
+`
+- **Vulnerability & Shocks:** `
+
+`
 
 ---
 
