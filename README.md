@@ -57,10 +57,10 @@ This Power BI dashboard was built to answer critical questions such as:
 - **Overview Page:** `
 
 `
-- **Regional Analysis:** `
+- **Geographic & Demographic Analysis:** `
 
 `
-- **Vulnerability & Shocks:** `
+- **Trends & Shock Analysis:** `
 
 `
 
