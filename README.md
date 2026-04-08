@@ -52,17 +52,15 @@ This Power BI dashboard was built to answer critical questions such as:
 
 ## 🖼️ Dashboard Screenshots
 
-> 💡 *Screenshots of the Power BI dashboard will be added here. Examples include map visuals, KPI cards, and trend lines.*
+### 🌏 Overview — Myanmar Food Security Dashboard
+![Myanmar Food Security Dashboard](overview.png)
 
-- **Overview Page:** `
+### 📍 Geographic & Demographic Analysis
+![Geographic & Demographic Analysis](geographic%20%26%20demographic%20analysis.png)
 
-`
-- **Geographic & Demographic Analysis:** `
+### 📈 Trends & Shock Analysis
+![Trends & Shock Analysis](trends%20%26%20shock%20analysis.png)
 
-`
-- **Trends & Shock Analysis:** `
-
-`
 
 ---
 
